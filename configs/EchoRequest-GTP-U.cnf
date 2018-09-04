@@ -1,0 +1,13 @@
+##  Begins of GENERIC SECTION  ##
+[GENERIC]
+    # 1: "echo-request",
+    # 2: "echo-response",
+  
+
+	#List of path management message's types. 
+	base_message_list = 1
+ 
+    teid = 0x00000000
+    sqn = 0x00000001
+    num_msg = 2
+    port = 52152
